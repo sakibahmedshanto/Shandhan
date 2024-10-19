@@ -25,7 +25,7 @@ Shandhan is a real estate application developed using Flutter that helps propert
 
 ## UI Design
 
-You can view the Figma prototype for Shandhan [here](https://www.figma.com/proto/your-prototype-link).
+You can view the Figma prototype for Shandhan [here]([https://www.figma.com/proto/your-prototype-link](https://www.figma.com/proto/BLZjYCeh54Kxi9KmLeWMKl/Project-Prototype?node-id=9-660&node-type=canvas&t=QdhFVy5jMFsXjr4I-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=9%3A660&show-proto-sidebar=1)).
 
 ## Screenshots
 
